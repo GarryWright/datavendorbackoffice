@@ -3,7 +3,7 @@
   "namespace":"io.dataset.datavendor",
   "name":"BloombergBackOffice",
   "imports":["io.dataset.atlas.types.Types-2.0.0"],
-  "documentation":"A representation of the data avaialble through Bloomberg's Back Office Products.",
+  "documentation":"A representation of the data avaialble through the Bloomberg's Back Office Products.",
   "version":"1.0.0",
   "organization":{
     "name":"Dataset IO",
